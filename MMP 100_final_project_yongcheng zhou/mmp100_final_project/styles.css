@@ -1,0 +1,19 @@
+body{padding: 5em;
+    background-color: black;}
+
+h1,h2,p {text-align: center;
+        color: white;}
+h3{font-size: 40px;
+        text-align: center;}
+h1,h3{font-family: 'Bakbak One', cursive;} 
+h1{font-size: 50px;}
+
+p{font-family: 'Bakbak One', cursive;}
+p{width:750px;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.8em;
+    color: rgb(200,200,200);}
